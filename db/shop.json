@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2000,
+      "categoryId": 1,
+      "description": "Acer Nitro",
+      "imageUrl": "https://resim.epey.com/190810/m_acer-an515-54-53qw-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 250,
+      "categoryId": 2,
+      "description": "Logitech G203",
+      "imageUrl": "https://productimages.hepsiburada.net/s/108/375/110000051526151.jpg"
+    },
+    {
+      "name": "Telefon",
+      "description": "Iphone 12 64GB",
+      "imageUrl": "https://productimages.hepsiburada.net/s/76/375/110000018213454.jpg",
+      "price": "24800",
+      "categoryId": "2",
+      "id": 3
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Bosch WGA141X1TR 9 kg 1000 Devir Çamaşır Makinesi",
+      "imageUrl": "https://productimages.hepsiburada.net/s/113/550/110000060821802.jpg/format:webp",
+      "price": 8500,
+      "categoryId": "2",
+      "id": 4
+    },
+    {
+      "name": "Laptop",
+      "description": "Lenovo Ideapad Gaming 3",
+      "imageUrl": "https://m.media-amazon.com/images/I/711E6HnoQyL._AC_SX522_.jpg",
+      "price": "14000",
+      "categoryId": "1",
+      "id": 5
+    },
+    {
+      "name": "Masaüstü Bilgisayar",
+      "description": "Turbox TX2889",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXFM-fgWAGpcof6xC5VYgF4MZsGsua9bKtTGIv4yaSJuCbwc0NqW5KPHVhOvjNLOezUaO8Z2_cAnpNYJKM0EezdqOoVHvToaRbZkrFAQ44ge221kYJ0_OqhQ&usqp=CAE",
+      "price": 5000,
+      "categoryId": "1",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}
